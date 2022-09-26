@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+.formulario{
+    font-family: 'Dangrek', cursive;
+    color: white;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.486);
+    height: 65vh;
+}
+
+body{
+    background-image: url(img/abstract-futuristic-blue-yellow-gaming-background_313905-233.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+label {
+    
+    margin:0 0 25px;
+    overflow:hidden;
+    padding:2px;
+    background-color:#6BD5F1;
+    border:1px solid #f3d111;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+button {
+    
+    margin:0 0 25px;
+    overflow:hidden;
+    padding:2px;
+    background-color:#6BD5F1;
+    border:1px solid #f3d111;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+textarea {
+    
+    margin:0 0 25px;
+    overflow:hidden;
+    padding:2px;
+    background-color:#ffffff;
+    border:1px solid #f3d111;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+
